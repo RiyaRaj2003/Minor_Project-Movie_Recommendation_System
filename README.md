@@ -45,8 +45,7 @@ Date: 23 December 2021 [Link](https://www.researchgate.net/publication/357301907
 
 ### `Research Paper 3`
 
-Performance Evaluation of Movie-based Recommendation Systems using Hybrid Machine Learning Models by A Padmavathi, Gottumukkala Amrutha, \
-Rohit Kumar Sah, Birat Chapagain, ASL Manasa \
+Performance Evaluation of Movie-based Recommendation Systems using Hybrid Machine Learning Models by A Padmavathi, Gottumukkala Amrutha, Rohit Kumar Sah, Birat Chapagain, ASL Manasa \
 Date: 11 April 2024 [Link](https://www.researchgate.net/publication/379762808_Performance_Evaluation_of_Movie-based_Recommendation_Systems_using_Hybrid_Machine_Learning_Models)
 
 ### `Research Paper 4`
