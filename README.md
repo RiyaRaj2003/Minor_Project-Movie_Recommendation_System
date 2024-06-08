@@ -4,7 +4,7 @@ This project is solely based on research work.
 
 ## Research Faculty
 
-This project, supervised by `Dr. Bhabani Shankar Prasad Mishra`, Dean of Academics at KIIT University (Bhubaneswar) was completed in a team of four over four months (Feb 2024 - May 2024) during our 6th semester.
+This project, supervised by `Dr. Bhabani Shankar Prasad Mishra`, Dean of Academics at KIIT University (Bhubaneswar) completed in a team of 4 members, over four months (Feb 2024 - May 2024) during our 6th semester. 
 
 ## About the Project
 
